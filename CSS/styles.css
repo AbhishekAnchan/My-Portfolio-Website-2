@@ -238,6 +238,9 @@ img{
 .about_subtitle{
     margin-bottom: var(--mb-2);
 }
+.about_text{
+    text-align: justify;
+}
 .about_img{
     justify-self: center;
 }
